@@ -1,0 +1,13 @@
+.Card {
+    align-items: center;
+}
+
+.Card h3 {
+    display: flex;
+    left: 10px;
+}
+
+.Card p {
+    display: flex;
+    left: 10px;
+}
