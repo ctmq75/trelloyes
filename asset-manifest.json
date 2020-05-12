@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/trelloyes/static/css/main.a8452b03.chunk.css",
+    "main.js": "/trelloyes/static/js/main.4f93dda1.chunk.js",
+    "main.js.map": "/trelloyes/static/js/main.4f93dda1.chunk.js.map",
+    "runtime-main.js": "/trelloyes/static/js/runtime-main.7f04bbda.js",
+    "runtime-main.js.map": "/trelloyes/static/js/runtime-main.7f04bbda.js.map",
+    "static/js/2.79f8b80c.chunk.js": "/trelloyes/static/js/2.79f8b80c.chunk.js",
+    "static/js/2.79f8b80c.chunk.js.map": "/trelloyes/static/js/2.79f8b80c.chunk.js.map",
+    "index.html": "/trelloyes/index.html",
+    "precache-manifest.6dc11cc4b65d0e39c5b3901c8de1391b.js": "/trelloyes/precache-manifest.6dc11cc4b65d0e39c5b3901c8de1391b.js",
+    "service-worker.js": "/trelloyes/service-worker.js",
+    "static/css/main.a8452b03.chunk.css.map": "/trelloyes/static/css/main.a8452b03.chunk.css.map",
+    "static/js/2.79f8b80c.chunk.js.LICENSE.txt": "/trelloyes/static/js/2.79f8b80c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f04bbda.js",
+    "static/js/2.79f8b80c.chunk.js",
+    "static/css/main.a8452b03.chunk.css",
+    "static/js/main.4f93dda1.chunk.js"
+  ]
+}
