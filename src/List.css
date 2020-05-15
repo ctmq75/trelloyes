@@ -2,3 +2,6 @@
     display: flex;
     justify-content: start; 
 }
+.List{
+    min-width: 218px;
+}
